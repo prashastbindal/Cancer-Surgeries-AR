@@ -1,0 +1,9 @@
+/glass_code/bin
+/glass_code/libs
+/glass_code/obj
+*.dll
+Debug
+kinectproj.sdf
+kinectproj.sln
+kinectproj.sln
+*.jpg
