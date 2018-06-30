@@ -15,3 +15,13 @@ res/
 *.png
 proguard-project.txt
 lint.xml
+photog/
+*.mk
+kinectproj.v12.suo
+print.txt
+print2.txt
+kinectproj.vcxproj.user
+kinectproj.vcxproj.filters
+kinectproj.vcxproj
+cloudPoints.txt
+Kinect3Dbuckup/
