@@ -7,3 +7,4 @@ kinectproj.sdf
 kinectproj.sln
 kinectproj.sln
 *.jpg
+.DS_Store
