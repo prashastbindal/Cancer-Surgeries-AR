@@ -8,3 +8,10 @@ kinectproj.sln
 kinectproj.sln
 *.jpg
 .DS_Store
+.settings
+.externalToolBuilders
+gen/
+res/
+*.png
+proguard-project.txt
+lint.xml
